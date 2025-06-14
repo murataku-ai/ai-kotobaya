@@ -134,3 +134,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# 2025.06.14 chatGPTと話した概要ファイル
+activity_summary.md
+
+# 今後の展望と履歴
+future_prospects.md
